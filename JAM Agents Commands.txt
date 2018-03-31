@@ -1,0 +1,7 @@
+for JAR files
+
+Java –classpath jam.jar com.irs.jam.JAM 
+
+For Jam files
+
+Java –classpath jam.jar com.irs.jam.JAM .\cwTaskMark2.jam
